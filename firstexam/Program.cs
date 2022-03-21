@@ -6,8 +6,63 @@ namespace firstexam
     {
         static void Main(string[] args)
         {
+
+
+
+
+            //int num, i, k, say = 1;
+            //Console.Write("n kaç olacak\n");
+            //num = int.Parse(Console.ReadLine());
+            //say = num - 1;
+            //for (k = 1; k <= num; k++)
+            //{
+            //    for (i = 1; i <= say; i++)
+            //        Console.Write(" ");
+            //    say--;
+            //    for (i = 1; i <= 2 * k - 1; i++)
+            //        Console.Write("*");
+            //    Console.WriteLine();
+            //}
+            //say = 1;
+            //for (k = 1; k <= say - 1; k++)
+            //{
+            //    for (i = 1; i <= say; i++)
+            //        Console.Write(" ");
+            //    say++;
+            //    for (i = 1; i <= 2 * (say - k) - 1; i++)
+            //        Console.Write("*");
+            //    Console.WriteLine();
+
+
+
+
+
+
+            //}
+
+
+            //Console.ReadLine();
+            //for (int i = 10; i >= 0; i--)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            //           for (int i = 1; i <= 100; i++)
+            //           { 
+            //               if  (i % 2 == 0)
+            //               {
+            //                   Console.WriteLine(i+"çift");
+
+            //               }
+            //               else 
+            //{
+            //                   Console.WriteLine(i + "tek");
+
+            //               }
+
+
             //string ay;
-           
+
             //Console.Write(" 1-ocak  ");
             //Console.Write(" 2-şubat ");
             //Console.Write("  3-mart ");
@@ -87,55 +142,15 @@ namespace firstexam
 
 
 
-
-
-            }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            //for (int i = 10; i >= 0; i--)
-            //{
-            //    Console.WriteLine(i);
-            //}
-
-            //           for (int i = 1; i <= 100; i++)
-            //           { 
-            //               if  (i % 2 == 0)
-            //               {
-            //                   Console.WriteLine(i+"çift");
-
-            //               }
-            //               else 
-            //{
-            //                   Console.WriteLine(i + "tek");
-
-            //               }
+        }
 
 
         }
 
-          
-        }
+
     }
+ 
+    
 
 //"1. Console ekranına 10'dan geriye yazdıran programı yazınız. 
 //Bilinmesi gereken : for döngüsü"
@@ -152,3 +167,18 @@ namespace firstexam
 //Ör Çıktı:
 //    Ayı seçiniz : Şubat
 //28
+
+//----------------------------------------------------------------------
+//1.Klavyeden bir n sayısı okuyunuz ve aşağıdaki deseni oluşturan programı yazınız (örneğimizde n = 6’dır): 
+//Bilinmesi gereken konu : for
+//     *
+//    ***
+//   *****
+//  *******
+// *********
+//***********
+// *********
+//  *******
+//   *****
+//    ***
+//     *
