@@ -21,18 +21,66 @@ namespace firstexam
 
 
 
+            int a, b;
+            Console.WriteLine("sayıgiriniz : ");
+            a = int.Parse(Console.ReadLine());
 
+            for (b = 2; a > 1; b++)
+                if (a % b == 0)
+                {
+                    int x = 0;
+                    while (a % b == 0)
+                    {
+                        a /= b;
+                        x++;
+                    }
+                    Console.WriteLine($"{b} sayısı {x} kere asal!");
+                }
+
+
+
+            //----------------------------------------------------------------
+            //     int sayı,i;
+            //     Console.WriteLine("sayı giriniz : ");
+            //      sayı = Int32.Parse(Console.ReadLine());
+            //    for(i = 1; i <= sayı; i++)
+            //     if (sayı % 2 == 0)
+            //         {
+
+            //             Console.WriteLine("sayı");
+            //             Console.WriteLine(i);
+            //         }
+
+            //   else  if (sayı % 3 == 0)
+            //     {
+            //         Console.WriteLine("sayı");
+            //         Console.WriteLine(i);
+            //     }
+            // else    if (sayı % 5 == 0)
+            //     {
+            //         Console.WriteLine("sayı");
+            //         Console.WriteLine(i);
+            //     }
+
+            //else     if (sayı % 7 == 0)
+            //     {
+            //         Console.WriteLine("sayı");
+            //         Console.WriteLine(i);
+            //     }
+
+
+            //--------------------------------------------
 
 
             //int sa, dk, sn; Console.WriteLine("Saniye giriniz : "); 
             //sn = Int16.Parse(Console.ReadLine()); sa = sn / 3600; sn = sn - (sa * 3600); dk = sn / 60; sn = sn - (dk * 60);
-            
+
             //Console.WriteLine("{0:D2},{1:D2},{2:D2}", sa, dk, sn);
             //Console.ReadLine();
-       
 
 
-//----------------------------------------
+
+            //----------------------------------------
 
             //int num, i, k, say = 1;
             //Console.Write("n kaç olacak\n");
@@ -169,7 +217,8 @@ namespace firstexam
         }
 
 
-        }
+
+    }
 
 
     }
@@ -211,4 +260,8 @@ namespace firstexam
 //yazdırılmayacaktır.
 //Bilinmesi gereken konu : saat hesaplamasının nasıl yapılacağı(mod alma vs), metot çağrısı
 //Örnek Çıktı : 3678 girildiğinde consoleda yandaki yazmalı : 01 h: 01 m: 18 s
- 
+
+
+//3.Bir sayının asal çarpanlarını yazdıran programı yazınız. 
+//Bilinmesi gereken konu : for, if/else
+//        Örneğin: Sayı: 12-> 2 2 3
