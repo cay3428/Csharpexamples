@@ -10,6 +10,30 @@ namespace firstexam
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            //int sa, dk, sn; Console.WriteLine("Saniye giriniz : "); 
+            //sn = Int16.Parse(Console.ReadLine()); sa = sn / 3600; sn = sn - (sa * 3600); dk = sn / 60; sn = sn - (dk * 60);
+            
+            //Console.WriteLine("{0:D2},{1:D2},{2:D2}", sa, dk, sn);
+            //Console.ReadLine();
+       
+
+
+//----------------------------------------
+
             //int num, i, k, say = 1;
             //Console.Write("n kaç olacak\n");
             //num = int.Parse(Console.ReadLine());
@@ -34,7 +58,7 @@ namespace firstexam
             //    Console.WriteLine();
 
 
-
+            //-----------------------------------------------------
 
 
 
@@ -58,8 +82,8 @@ namespace firstexam
             //{
             //                   Console.WriteLine(i + "tek");
 
-            //               }
-
+            ////               }
+            //------------------------------------------------------
 
             //string ay;
 
@@ -149,8 +173,8 @@ namespace firstexam
 
 
     }
- 
-    
+
+
 
 //"1. Console ekranına 10'dan geriye yazdıran programı yazınız. 
 //Bilinmesi gereken : for döngüsü"
@@ -182,3 +206,9 @@ namespace firstexam
 //   *****
 //    ***
 //     *
+//2.Parametresi ile aldığı long türden saniye cinsinden süreyi saat, dakika ve saniye olarak ayrıştırarak 
+//ekrana yazdıran displayDuration isimli metodu yazınız. Eğer saat, dakika ya da saniye değeri 0(sıfır) ise ekrana 
+//yazdırılmayacaktır.
+//Bilinmesi gereken konu : saat hesaplamasının nasıl yapılacağı(mod alma vs), metot çağrısı
+//Örnek Çıktı : 3678 girildiğinde consoleda yandaki yazmalı : 01 h: 01 m: 18 s
+ 
