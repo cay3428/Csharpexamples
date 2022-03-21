@@ -1,0 +1,13 @@
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\bin\Debug\netcoreapp3.1\firstexam.exe
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\bin\Debug\netcoreapp3.1\firstexam.deps.json
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\bin\Debug\netcoreapp3.1\firstexam.runtimeconfig.json
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\bin\Debug\netcoreapp3.1\firstexam.runtimeconfig.dev.json
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\bin\Debug\netcoreapp3.1\firstexam.dll
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\bin\Debug\netcoreapp3.1\firstexam.pdb
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\obj\Debug\netcoreapp3.1\firstexam.csprojAssemblyReference.cache
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\obj\Debug\netcoreapp3.1\firstexam.AssemblyInfoInputs.cache
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\obj\Debug\netcoreapp3.1\firstexam.AssemblyInfo.cs
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\obj\Debug\netcoreapp3.1\firstexam.csproj.CoreCompileInputs.cache
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\obj\Debug\netcoreapp3.1\firstexam.dll
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\obj\Debug\netcoreapp3.1\firstexam.pdb
+C:\Users\ACem_\Documents\GitHub\Csharpexamples\firstexam\obj\Debug\netcoreapp3.1\firstexam.genruntimeconfig.cache

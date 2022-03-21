@@ -6,8 +6,13 @@ namespace firstexam
     {
         static void Main(string[] args)
         {
+            for (int i = 10; i >= 0; i--)
+            {
+                Console.WriteLine(i);
+            }
 
-            Console.WriteLine("Hello World!");
         }
     }
 }
+//"1. Console ekranına 10'dan geriye yazdıran programı yazınız. 
+//Bilinmesi gereken : for döngüsü"
