@@ -21,21 +21,21 @@ namespace firstexam
 
 
 
-            int a, b;
-            Console.WriteLine("sayıgiriniz : ");
-            a = int.Parse(Console.ReadLine());
+            //int a, b;
+            //Console.WriteLine("sayıgiriniz : ");
+            //a = int.Parse(Console.ReadLine());
 
-            for (b = 2; a > 1; b++)
-                if (a % b == 0)
-                {
-                    int x = 0;
-                    while (a % b == 0)
-                    {
-                        a /= b;
-                        x++;
-                    }
-                    Console.WriteLine($"{b} sayısı {x} kere asal!");
-                }
+            //for (b = 2; a > 1; b++)
+            //    if (a % b == 0)
+            //    {
+            //        int z = 0;
+            //        while (a % b == 0)
+            //        {
+            //            a /= b;
+            //            z++;
+            //        }
+            //        Console.WriteLine($"{b} sayısı {x} kere asal!");
+            //    }
 
 
 
