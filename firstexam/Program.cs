@@ -7,9 +7,62 @@ namespace firstexam
         static void Main(string[] args)
         {
 
+            //int sayı;
+
+            //sayı = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine();
+
+            //for (int i = 1; i <= sayı; i++)
+            //{
+            //    for (int j = sayı; j > i; j--)
+            //    {
+            //        Console.Write(" ");
+            //    }
+            //    for (int k = 1; k <= i; k++)
+            //    {
+            //        Console.Write(" " + "*");
+            //    }
+            //    Console.WriteLine();
+            //}
+            //for (int t = 1; t <= sayı; t++)
+            //{
+            //    for (int m = 1; m <= t; m++)
+            //    {
+            //        Console.Write(" ");
+            //    }
+            //    for (int n = sayı; n > t; n--)
+            //    {
+            //        Console.Write(" " + "*");
+            //    }
+            //    Console.WriteLine();
+            //}
+            //Console.ReadLine();
+
+            -------------------------------------------
 
 
-
+            //int num, i, k, say = 1;
+            //Console.Write("n kaç olacak\n");
+            //num = int.Parse(Console.ReadLine());
+            //say = num - 1;                                        >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> dışarıdan eksilttiğim içib döngüde eksiklik var
+            //for (k = 1; k <= num; k++)
+            //{
+            //    for (i = 1; i <= say; i++)
+            //        Console.Write(" ");
+            //    say--;
+            //    for (i = 1; i <= 2 * k - 1; i++)
+            //        Console.Write("*");
+            //    Console.WriteLine();
+            //}
+            //say = 1;
+            //for (k = 1; k <= say - 1; k++)
+            //{
+            //    for (i = 1; i <= say; i++)
+            //        Console.Write(" ");
+            //    say++;
+            //    for (i = 1; i <= 2 * (say - k) - 1; i++)
+            //        Console.Write("*");
+            //    Console.WriteLine();
 
 
 
@@ -82,28 +135,10 @@ namespace firstexam
 
             //----------------------------------------
 
-            //int num, i, k, say = 1;
-            //Console.Write("n kaç olacak\n");
-            //num = int.Parse(Console.ReadLine());
-            //say = num - 1;
-            //for (k = 1; k <= num; k++)
-            //{
-            //    for (i = 1; i <= say; i++)
-            //        Console.Write(" ");
-            //    say--;
-            //    for (i = 1; i <= 2 * k - 1; i++)
-            //        Console.Write("*");
-            //    Console.WriteLine();
-            //}
-            //say = 1;
-            //for (k = 1; k <= say - 1; k++)
-            //{
-            //    for (i = 1; i <= say; i++)
-            //        Console.Write(" ");
-            //    say++;
-            //    for (i = 1; i <= 2 * (say - k) - 1; i++)
-            //        Console.Write("*");
-            //    Console.WriteLine();
+
+
+
+
 
 
             //-----------------------------------------------------
@@ -222,7 +257,7 @@ namespace firstexam
 
 
     }
-
+    
 
 
 //"1. Console ekranına 10'dan geriye yazdıran programı yazınız. 
