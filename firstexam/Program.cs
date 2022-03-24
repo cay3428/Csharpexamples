@@ -6,6 +6,7 @@ namespace firstexam
     {
         static void Main(string[] args)
         {
+            aa
 
             //int sayı;
 
